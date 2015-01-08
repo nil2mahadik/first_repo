@@ -1,2 +1,2 @@
 # first_repo
-firect public repiository
+first public repiository
